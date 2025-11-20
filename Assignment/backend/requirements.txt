@@ -1,0 +1,9 @@
+fastapi==0.115.0
+uvicorn[standard]==0.23.2
+SQLAlchemy==2.0.21
+psycopg2-binary==2.9.9
+pydantic==2.6.4
+pydantic-settings==2.1.0
+python-multipart==0.0.6
+twilio==9.3.6
+
